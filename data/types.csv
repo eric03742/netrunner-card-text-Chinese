@@ -1,0 +1,12 @@
+id,name
+agenda,议案
+asset,资产
+corp_identity,公司特性
+event,事件
+hardware,硬件
+ice,防火墙
+operation,事务
+program,程序
+resource,资源
+runner_identity,潜袭者特性
+upgrade,升级
