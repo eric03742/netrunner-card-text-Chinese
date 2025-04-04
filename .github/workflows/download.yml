@@ -1,0 +1,16 @@
+name: Refresh
+on: workflow_dispatch
+jobs:
+  download:
+    name: 
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - run: sh download.sh
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: '.'
+          author_name: Eric03742
+          author_email: eric03742@foxmail.com
+          message: 'commit data.'
+          push: true
