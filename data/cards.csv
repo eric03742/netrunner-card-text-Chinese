@@ -843,7 +843,7 @@ early_premiere,提前首映,当你的回合开始时，你可以支付1[credit]�
 earth_station_sea_headquarters,地球站: 空梯管理局总部,"限制1台远程服务器。
 作为潜袭总部的额外费用，潜袭者必须支付1[credit]。
 [click]<strong>:</strong> 将本特性翻面。
-翻面:
+<strong>翻面</strong> 地球站: 升入空轨 
 限制1台远程服务器。
 作为潜袭远程服务器的额外费用，潜袭者必须支付6[credit]。
 当潜袭者对总部进行一次成功的潜袭时，将本特性翻面。"
@@ -1318,7 +1318,7 @@ hortum,悬苑,"你可以推进本防火墙。如果所附载的推进指示物�
 [subroutine] 获得1[credit]。如果所附载的推进指示物有3枚或更多，则改为获得4[credit]。
 [subroutine] 终止本次潜袭。如果所附载的推进指示物有3枚或更多，则改为在研发中心搜寻最多2张卡牌。将这些卡牌加入总部，然后终止本次潜袭。"
 hoshiko_shiro_untold_protagonist,白 星子: 未名主演,"当你的回合结束时，如果你本回合读取过卡牌，获得2[credit]并将本特性翻面。
-翻面:
+<strong>翻面</strong> 白 星子: 魔法少女
 当你的回合开始时，抽1张卡牌并失去1[credit]。当你的回合结束时，如果你本回合没有读取过卡牌，将本特性翻面。"
 hostage,,
 hostile_architecture,不友好建筑,每回合潜袭者第一次销毁你已安装的卡牌时<em>（包括本资产）</em>，造成2点肢体伤害。
@@ -1495,9 +1495,12 @@ jesminder_sareen_girl_behind_the_curtain,杰斯敏德·萨林: 幕后女孩,避�
 jinja_city_grid,,
 jinteki_biotech_life_imagined,人间生物科技: 享你所想,"在你开始第一个回合前，你可以将本卡牌与任意一张人间生物科技互换。
 [click], [click], [click]: 将本特性翻转。
-<strong>酿坊</strong>：当你翻转本特性时，造成2点网域伤害。
-<strong>温室</strong>：当你翻转本特性时，放置4枚推进标记到一张能被推进的卡牌上。
-<strong>智库</strong>：当你翻转本特性时，将档案库洗入研发中心。"
+<strong>牌面</strong> 人间生物科技: 酿坊
+当你翻转本特性时，造成2点网域伤害。
+<strong>牌面</strong> 人间生物科技: 温室
+当你翻转本特性时，放置4枚推进标记到一张能被推进的卡牌上。
+<strong>牌面</strong> 人间生物科技: 智库
+当你翻转本特性时，将档案库洗入研发中心。"
 jinteki_personal_evolution,人间会社: 自我进化,每当一个议案被计分或窃取时，造成1点网域伤害。
 jinteki_potential_unleashed,人间会社: 潜力无限,每当潜袭者承受至少1点网域伤害时，销毁存储栈顶端的一张卡牌。
 jinteki_replicating_perfection,,
@@ -2763,7 +2766,7 @@ sync_bre,信网同步BRE,"[subroutine] <trace>追踪 4</trace> 如果成功，�
 [subroutine] <trace>追踪 2</trace> 如果成功，每当潜袭者读取卡牌时，他/她减少读取一张。"
 sync_everything_everywhere,信网同步: 随事随地,"[click]: 将本特性翻转。
 潜袭者花费[click]（不通过卡牌能力）来移除1枚锁定标记时多支付1[credit]。
-背面：
+<strong>翻面</strong> 信网同步: 随事随地
 [click]: 将本特性翻转。
 你花费[click]（不通过卡牌能力）来销毁一个资源时少支付2[credit]。"
 sync_rerouting,信网改道,"只有当前没有正在生效的<strong>封锁</strong>时，才能打出。直到你的下回合开始前，本事务不会被销毁。
@@ -3219,33 +3222,3 @@ zona_sul_shipping,南区快运,"当你的回合开始时，放置1[credit]到南
 zu_13_key_master,ZU.13守钥者,"如果你具有至少2[link]，ZU.13守钥者的内存费用为0，即使其未被安装。
 1[credit]: 破解<strong>门禁</strong>子进程。
 1[credit]: 强度+1。"
-earth_station_sea_headquarters_face0,地球站: 空梯管理局总部,"限制1台远程服务器。
-作为潜袭总部的额外费用，潜袭者必须支付1[credit]。
-[click]<strong>:</strong> 将本特性翻面。
-翻面:
-限制1台远程服务器。
-作为潜袭远程服务器的额外费用，潜袭者必须支付6[credit]。
-当潜袭者对总部进行一次成功的潜袭时，将本特性翻面。"
-hoshiko_shiro_untold_protagonist_face0,白 星子: 未名主演,"当你的回合结束时，如果你本回合读取过卡牌，获得2[credit]并将本特性翻面。
-翻面:
-当你的回合开始时，抽1张卡牌并失去1[credit]。当你的回合结束时，如果你本回合没有读取过卡牌，将本特性翻面。"
-jinteki_biotech_life_imagined_face0,人间生物科技: 享你所想,"在你开始第一个回合前，你可以将本卡牌与任意一张人间生物科技互换。
-[click], [click], [click]: 将本特性翻转。
-<strong>酿坊</strong>：当你翻转本特性时，造成2点网域伤害。
-<strong>温室</strong>：当你翻转本特性时，放置4枚推进标记到一张能被推进的卡牌上。
-<strong>智库</strong>：当你翻转本特性时，将档案库洗入研发中心。"
-jinteki_biotech_life_imagined_face1,人间生物科技: 享你所想,"在你开始第一个回合前，你可以将本卡牌与任意一张人间生物科技互换。
-[click], [click], [click]: 将本特性翻转。
-<strong>酿坊</strong>：当你翻转本特性时，造成2点网域伤害。
-<strong>温室</strong>：当你翻转本特性时，放置4枚推进标记到一张能被推进的卡牌上。
-<strong>智库</strong>：当你翻转本特性时，将档案库洗入研发中心。"
-jinteki_biotech_life_imagined_face2,人间生物科技: 享你所想,"在你开始第一个回合前，你可以将本卡牌与任意一张人间生物科技互换。
-[click], [click], [click]: 将本特性翻转。
-<strong>酿坊</strong>：当你翻转本特性时，造成2点网域伤害。
-<strong>温室</strong>：当你翻转本特性时，放置4枚推进标记到一张能被推进的卡牌上。
-<strong>智库</strong>：当你翻转本特性时，将档案库洗入研发中心。"
-sync_everything_everywhere_face0,信网同步: 随事随地,"[click]: 将本特性翻转。
-潜袭者花费[click]（不通过卡牌能力）来移除1枚锁定标记时多支付1[credit]。
-背面：
-[click]: 将本特性翻转。
-你花费[click]（不通过卡牌能力）来销毁一个资源时少支付2[credit]。"
