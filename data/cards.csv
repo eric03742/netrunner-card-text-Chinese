@@ -1495,11 +1495,11 @@ jesminder_sareen_girl_behind_the_curtain,杰斯敏德·萨林: 幕后女孩,避�
 jinja_city_grid,,
 jinteki_biotech_life_imagined,人间生物科技: 享你所想,"在你开始第一个回合前，你可以将本卡牌与任意一张人间生物科技互换。
 [click], [click], [click]: 将本特性翻转。
-<strong>牌面</strong> 人间生物科技: 酿坊
+<strong>牌面</strong> 酿坊: 人间生物科技
 当你翻转本特性时，造成2点网域伤害。
-<strong>牌面</strong> 人间生物科技: 温室
+<strong>牌面</strong> 温室: 人间生物科技
 当你翻转本特性时，放置4枚推进标记到一张能被推进的卡牌上。
-<strong>牌面</strong> 人间生物科技: 智库
+<strong>牌面</strong> 智库: 人间生物科技
 当你翻转本特性时，将档案库洗入研发中心。"
 jinteki_personal_evolution,人间会社: 自我进化,每当一个议案被计分或窃取时，造成1点网域伤害。
 jinteki_potential_unleashed,人间会社: 潜力无限,每当潜袭者承受至少1点网域伤害时，销毁存储栈顶端的一张卡牌。
