@@ -221,7 +221,7 @@ az_mccaffrey_mechanical_prodigy,阿兹·麦卡弗瑞: 机械奇才,每回合你�
 azef_protocol,阿泽夫协议,"作为将本议案计分的额外费用，销毁另1张你已安装的卡牌。
 当你将本议案计分时，造成2点肢体伤害。"
 azmari_edtech_shaping_the_future,,
-b_1001,B-1001,<strong>移除1枚锁定标记:</strong> 终止本次潜袭。仅能在对另一台服务器的潜袭中使用本能力。
+b_1001,B-1001,<strong>移除1枚锁定标记:</strong> 终止本次潜袭。本能力仅能在对另一台服务器的潜袭中使用。
 baba_yaga,雅加婆婆,"你可以附载任意数量的非<strong>智能模块破解器</strong>到雅加婆婆上。
 雅加婆婆获得所有所附载的<strong>破解器</strong>的付费能力。"
 back_channels,秘密渠道,销毁安装在一台服务器内的一张卡牌，并且该卡牌上每有1枚推进标记，获得3[credit]。
@@ -3236,7 +3236,7 @@ gourmand,贪食者,读取 → [trash]<strong>：</strong> 销毁你正在读取�
 hantu,魑魅魍魉,"当你安装本程序时，放置2枚病毒指示物到本程序上。
 对接 → <strong>1[credit]：</strong>破解1条<strong>警报</strong>子进程。
 <strong>所附载的病毒指示物：</strong>强度+2。"
-rising_tide,暗潮汹涌,"你的堆阵中每有一个<strong>破解器</strong>，本程序的强度+1。
+rising_tide,暗潮汹涌,"你的堆阵中每有一个<strong>分解模块</strong>，本程序的强度+1。
 对接 → <strong>1[credit]：</strong>破解1条<strong>屏障</strong>子进程。
 <strong>1[credit]：</strong>强度+1。"
 cacophony,喧嚣,"每回合你第一次窃取或销毁公司卡牌时，放置1枚能量指示物到本资源上。
