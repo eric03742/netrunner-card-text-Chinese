@@ -1,0 +1,46 @@
+[
+  {
+    "id": "agenda",
+    "name": "议案"
+  },
+  {
+    "id": "asset",
+    "name": "资产"
+  },
+  {
+    "id": "corp_identity",
+    "name": "公司特性"
+  },
+  {
+    "id": "event",
+    "name": "事件"
+  },
+  {
+    "id": "hardware",
+    "name": "硬件"
+  },
+  {
+    "id": "ice",
+    "name": "防火墙"
+  },
+  {
+    "id": "operation",
+    "name": "事务"
+  },
+  {
+    "id": "program",
+    "name": "程序"
+  },
+  {
+    "id": "resource",
+    "name": "资源"
+  },
+  {
+    "id": "runner_identity",
+    "name": "潜袭者特性"
+  },
+  {
+    "id": "upgrade",
+    "name": "升级"
+  }
+]

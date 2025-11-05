@@ -1,0 +1,114 @@
+[
+  {
+    "id": "draft",
+    "name": "轮抽系列"
+  },
+  {
+    "id": "core_set",
+    "name": "核心系列"
+  },
+  {
+    "id": "genesis",
+    "name": "创纪元"
+  },
+  {
+    "id": "creation_and_control",
+    "name": "创造与掌控"
+  },
+  {
+    "id": "spin",
+    "name": "扭曲真相"
+  },
+  {
+    "id": "honor_and_profit",
+    "name": "荣耀与利益"
+  },
+  {
+    "id": "lunar",
+    "name": "月行"
+  },
+  {
+    "id": "order_and_chaos",
+    "name": "秩序与混乱"
+  },
+  {
+    "id": "sansan",
+    "name": "圣加州"
+  },
+  {
+    "id": "data_and_destiny",
+    "name": "数据与命运"
+  },
+  {
+    "id": "mumbad",
+    "name": "孟巴德"
+  },
+  {
+    "id": "flashpoint",
+    "name": "闪点"
+  },
+  {
+    "id": "red_sand",
+    "name": "红砂"
+  },
+  {
+    "id": "terminal_directive",
+    "name": "终极指令"
+  },
+  {
+    "id": "revised_core_set",
+    "name": "核心系列修订版"
+  },
+  {
+    "id": "kitara",
+    "name": "基塔拉"
+  },
+  {
+    "id": "reign_and_reverie",
+    "name": "统治与空想"
+  },
+  {
+    "id": "magnum_opus",
+    "name": "巨作"
+  },
+  {
+    "id": "napd_multiplayer",
+    "name": "NAPD 多人模式"
+  },
+  {
+    "id": "system_core_2019",
+    "name": "系统核心 2019"
+  },
+  {
+    "id": "ashes",
+    "name": "余烬"
+  },
+  {
+    "id": "magnum_opus_reprint",
+    "name": "巨作重印版"
+  },
+  {
+    "id": "salvaged_memories",
+    "name": "记忆寻回"
+  },
+  {
+    "id": "system_gateway",
+    "name": "核心网关"
+  },
+  {
+    "id": "system_update_2021",
+    "name": "系统革新 2021"
+  },
+  {
+    "id": "borealis",
+    "name": "北极光"
+  },
+  {
+    "id": "liberation",
+    "name": "解放"
+  },
+  {
+    "id": "elevation",
+    "name": "仰望"
+  }
+]

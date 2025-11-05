@@ -1,0 +1,298 @@
+[
+  {
+    "id": "draft",
+    "name": "轮抽系列"
+  },
+  {
+    "id": "core_set",
+    "name": "核心系列"
+  },
+  {
+    "id": "what_lies_ahead",
+    "name": "前途未卜"
+  },
+  {
+    "id": "trace_amount",
+    "name": "重重追踪"
+  },
+  {
+    "id": "cyber_exodus",
+    "name": "赛博迁徙"
+  },
+  {
+    "id": "a_study_in_static",
+    "name": "静态研究"
+  },
+  {
+    "id": "humanitys_shadow",
+    "name": "人性阴影"
+  },
+  {
+    "id": "future_proof",
+    "name": "未来考验"
+  },
+  {
+    "id": "creation_and_control",
+    "name": "创造与掌控"
+  },
+  {
+    "id": "opening_moves",
+    "name": "起手开局"
+  },
+  {
+    "id": "second_thoughts",
+    "name": "深思熟虑"
+  },
+  {
+    "id": "mala_tempora",
+    "name": "恶劣时期"
+  },
+  {
+    "id": "true_colors",
+    "name": "真实面目"
+  },
+  {
+    "id": "fear_and_loathing",
+    "name": "恐惧与憎恶"
+  },
+  {
+    "id": "double_time",
+    "name": "双重时刻"
+  },
+  {
+    "id": "honor_and_profit",
+    "name": "荣耀与利益"
+  },
+  {
+    "id": "upstalk",
+    "name": "上行之旅"
+  },
+  {
+    "id": "the_spaces_between",
+    "name": "往来之隙"
+  },
+  {
+    "id": "first_contact",
+    "name": "初遇之际"
+  },
+  {
+    "id": "up_and_over",
+    "name": "攀越之路"
+  },
+  {
+    "id": "all_that_remains",
+    "name": "遗迹之地"
+  },
+  {
+    "id": "the_source",
+    "name": "网络之源"
+  },
+  {
+    "id": "order_and_chaos",
+    "name": "秩序与混乱"
+  },
+  {
+    "id": "the_valley",
+    "name": "生科谷"
+  },
+  {
+    "id": "breaker_bay",
+    "name": "碎浪湾"
+  },
+  {
+    "id": "chrome_city",
+    "name": "铬金城"
+  },
+  {
+    "id": "the_underway",
+    "name": "暗底区"
+  },
+  {
+    "id": "old_hollywood",
+    "name": "老莱坞"
+  },
+  {
+    "id": "the_universe_of_tomorrow",
+    "name": "未来域"
+  },
+  {
+    "id": "data_and_destiny",
+    "name": "数据与命运"
+  },
+  {
+    "id": "kala_ghoda",
+    "name": "卡拉哥达"
+  },
+  {
+    "id": "business_first",
+    "name": "商务为先"
+  },
+  {
+    "id": "democracy_and_dogma",
+    "name": "民主与教条"
+  },
+  {
+    "id": "salsette_island",
+    "name": "撒尔塞特"
+  },
+  {
+    "id": "the_liberated_mind",
+    "name": "自由心智"
+  },
+  {
+    "id": "fear_the_masses",
+    "name": "群众可畏"
+  },
+  {
+    "id": "23_seconds",
+    "name": "二十三秒"
+  },
+  {
+    "id": "blood_money",
+    "name": "不义之财"
+  },
+  {
+    "id": "escalation",
+    "name": "事态升级"
+  },
+  {
+    "id": "intervention",
+    "name": "介入冲突"
+  },
+  {
+    "id": "martial_law",
+    "name": "军事管制"
+  },
+  {
+    "id": "quorum",
+    "name": "共商出路"
+  },
+  {
+    "id": "daedalus_complex",
+    "name": "代达罗斯"
+  },
+  {
+    "id": "station_one",
+    "name": "一号车站"
+  },
+  {
+    "id": "terminal_directive_cards",
+    "name": "终极指令"
+  },
+  {
+    "id": "terminal_directive_campaign",
+    "name": "终极指令战役"
+  },
+  {
+    "id": "earths_scion",
+    "name": "地球子孙"
+  },
+  {
+    "id": "blood_and_water",
+    "name": "水债血偿"
+  },
+  {
+    "id": "free_mars",
+    "name": "火独运动"
+  },
+  {
+    "id": "crimson_dust",
+    "name": "绯尘来袭"
+  },
+  {
+    "id": "revised_core_set",
+    "name": "核心系列修订版"
+  },
+  {
+    "id": "sovereign_sight",
+    "name": "主权视野"
+  },
+  {
+    "id": "down_the_white_nile",
+    "name": "顺流而下"
+  },
+  {
+    "id": "council_of_the_crest",
+    "name": "顶峰议会"
+  },
+  {
+    "id": "the_devil_and_the_dragon",
+    "name": "恶魔与巨龙"
+  },
+  {
+    "id": "whispers_in_nalubaale",
+    "name": "湖中低语"
+  },
+  {
+    "id": "kampala_ascendent",
+    "name": "坎帕拉崛起"
+  },
+  {
+    "id": "reign_and_reverie",
+    "name": "统治与空想"
+  },
+  {
+    "id": "magnum_opus",
+    "name": "巨作"
+  },
+  {
+    "id": "napd_multiplayer",
+    "name": "NAPD 多人模式"
+  },
+  {
+    "id": "system_core_2019",
+    "name": "系统核心 2019"
+  },
+  {
+    "id": "downfall",
+    "name": "坍落"
+  },
+  {
+    "id": "magnum_opus_reprint",
+    "name": "巨作重印版"
+  },
+  {
+    "id": "uprising_booster_pack",
+    "name": "起义增强包"
+  },
+  {
+    "id": "uprising",
+    "name": "起义"
+  },
+  {
+    "id": "salvaged_memories",
+    "name": "记忆寻回"
+  },
+  {
+    "id": "system_gateway",
+    "name": "核心网关"
+  },
+  {
+    "id": "system_update_2021",
+    "name": "系统革新 2021"
+  },
+  {
+    "id": "midnight_sun_booster_pack",
+    "name": "极昼增强包"
+  },
+  {
+    "id": "midnight_sun",
+    "name": "极昼"
+  },
+  {
+    "id": "parhelion",
+    "name": "幻日"
+  },
+  {
+    "id": "the_automata_initiative",
+    "name": "自动机倡议"
+  },
+  {
+    "id": "rebellion_without_rehearsal",
+    "name": "即兴叛乱"
+  },
+  {
+    "id": "elevation",
+    "name": "仰望"
+  }
+]

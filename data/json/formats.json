@@ -1,0 +1,26 @@
+[
+  {
+    "id": "eternal",
+    "name": "永恒"
+  },
+  {
+    "id": "ram",
+    "name": "RAM"
+  },
+  {
+    "id": "snapshot",
+    "name": "快照"
+  },
+  {
+    "id": "standard",
+    "name": "标准"
+  },
+  {
+    "id": "startup",
+    "name": "新启"
+  },
+  {
+    "id": "system_gateway",
+    "name": "核心网关"
+  }
+]

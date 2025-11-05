@@ -1,0 +1,426 @@
+[
+  {
+    "id": "academic",
+    "name": "学术"
+  },
+  {
+    "id": "ai",
+    "name": "智能模块"
+  },
+  {
+    "id": "ap",
+    "name": "杀伤"
+  },
+  {
+    "id": "advertisement",
+    "name": "广告"
+  },
+  {
+    "id": "alliance",
+    "name": "联盟"
+  },
+  {
+    "id": "ambush",
+    "name": "伏击"
+  },
+  {
+    "id": "barrier",
+    "name": "屏障"
+  },
+  {
+    "id": "beanstalk",
+    "name": "豆茎"
+  },
+  {
+    "id": "bioroid",
+    "name": "生化人"
+  },
+  {
+    "id": "black_ops",
+    "name": "黑色行动"
+  },
+  {
+    "id": "bomb",
+    "name": "炸弹"
+  },
+  {
+    "id": "caissa",
+    "name": "西洋棋"
+  },
+  {
+    "id": "cast",
+    "name": "节目"
+  },
+  {
+    "id": "character",
+    "name": "人物"
+  },
+  {
+    "id": "chip",
+    "name": "芯片"
+  },
+  {
+    "id": "clan",
+    "name": "部落"
+  },
+  {
+    "id": "clone",
+    "name": "克隆体"
+  },
+  {
+    "id": "cloud",
+    "name": "云"
+  },
+  {
+    "id": "code_gate",
+    "name": "门禁"
+  },
+  {
+    "id": "companion",
+    "name": "同伴"
+  },
+  {
+    "id": "condition",
+    "name": "状态"
+  },
+  {
+    "id": "connection",
+    "name": "人脉"
+  },
+  {
+    "id": "console",
+    "name": "控制台"
+  },
+  {
+    "id": "consumer_grade",
+    "name": "消费级"
+  },
+  {
+    "id": "corp",
+    "name": "公司"
+  },
+  {
+    "id": "corporation",
+    "name": "公司"
+  },
+  {
+    "id": "current",
+    "name": "局势"
+  },
+  {
+    "id": "cybernetic",
+    "name": "义体"
+  },
+  {
+    "id": "cyborg",
+    "name": "半机械人"
+  },
+  {
+    "id": "daemon",
+    "name": "后台"
+  },
+  {
+    "id": "decoder",
+    "name": "解码模块"
+  },
+  {
+    "id": "deep_net",
+    "name": "深网"
+  },
+  {
+    "id": "deflector",
+    "name": "偏导器"
+  },
+  {
+    "id": "department",
+    "name": "子部门"
+  },
+  {
+    "id": "destroyer",
+    "name": "毁灭者"
+  },
+  {
+    "id": "deva",
+    "name": "提婆"
+  },
+  {
+    "id": "digital",
+    "name": "数字体"
+  },
+  {
+    "id": "directive",
+    "name": "指令"
+  },
+  {
+    "id": "division",
+    "name": "部门"
+  },
+  {
+    "id": "double",
+    "name": "双重"
+  },
+  {
+    "id": "enforcer",
+    "name": "执法者"
+  },
+  {
+    "id": "executive",
+    "name": "主管"
+  },
+  {
+    "id": "expansion",
+    "name": "扩张"
+  },
+  {
+    "id": "expendable",
+    "name": "可消耗"
+  },
+  {
+    "id": "facility",
+    "name": "设施"
+  },
+  {
+    "id": "fracter",
+    "name": "分解模块"
+  },
+  {
+    "id": "g_mod",
+    "name": "转基因人"
+  },
+  {
+    "id": "gear",
+    "name": "装备"
+  },
+  {
+    "id": "genetics",
+    "name": "基因"
+  },
+  {
+    "id": "government",
+    "name": "政府"
+  },
+  {
+    "id": "grail",
+    "name": "圣杯"
+  },
+  {
+    "id": "gray_ops",
+    "name": "灰色行动"
+  },
+  {
+    "id": "harmonic",
+    "name": "和声"
+  },
+  {
+    "id": "hostile",
+    "name": "敌对"
+  },
+  {
+    "id": "icebreaker",
+    "name": "破解器"
+  },
+  {
+    "id": "illicit",
+    "name": "非法"
+  },
+  {
+    "id": "industrial",
+    "name": "工业"
+  },
+  {
+    "id": "initiative",
+    "name": "原创"
+  },
+  {
+    "id": "job",
+    "name": "工作"
+  },
+  {
+    "id": "killer",
+    "name": "断路模块"
+  },
+  {
+    "id": "link",
+    "name": "中转器"
+  },
+  {
+    "id": "location",
+    "name": "场所"
+  },
+  {
+    "id": "lockdown",
+    "name": "封锁"
+  },
+  {
+    "id": "mandate",
+    "name": "命令"
+  },
+  {
+    "id": "megacorp",
+    "name": "巨型公司"
+  },
+  {
+    "id": "mod",
+    "name": "改造"
+  },
+  {
+    "id": "morph",
+    "name": "变形"
+  },
+  {
+    "id": "mythic",
+    "name": "神秘"
+  },
+  {
+    "id": "next",
+    "name": "次级"
+  },
+  {
+    "id": "natural",
+    "name": "原生人"
+  },
+  {
+    "id": "observer",
+    "name": "观察者"
+  },
+  {
+    "id": "off_site",
+    "name": "场外"
+  },
+  {
+    "id": "orgcrime",
+    "name": "黑社会"
+  },
+  {
+    "id": "police_department",
+    "name": "警局"
+  },
+  {
+    "id": "political",
+    "name": "政治"
+  },
+  {
+    "id": "priority",
+    "name": "优先"
+  },
+  {
+    "id": "psi",
+    "name": "灵能"
+  },
+  {
+    "id": "public",
+    "name": "公开"
+  },
+  {
+    "id": "region",
+    "name": "区域"
+  },
+  {
+    "id": "remote",
+    "name": "远程"
+  },
+  {
+    "id": "reprisal",
+    "name": "报复"
+  },
+  {
+    "id": "research",
+    "name": "研究"
+  },
+  {
+    "id": "ritzy",
+    "name": "豪华"
+  },
+  {
+    "id": "run",
+    "name": "潜袭"
+  },
+  {
+    "id": "sabotage",
+    "name": "破坏"
+  },
+  {
+    "id": "security",
+    "name": "防卫"
+  },
+  {
+    "id": "security_protocol",
+    "name": "安全协议"
+  },
+  {
+    "id": "seedy",
+    "name": "低劣"
+  },
+  {
+    "id": "sensie",
+    "name": "复感电影"
+  },
+  {
+    "id": "sentry",
+    "name": "警报"
+  },
+  {
+    "id": "source",
+    "name": "根源"
+  },
+  {
+    "id": "stealth",
+    "name": "隐匿"
+  },
+  {
+    "id": "subsidiary",
+    "name": "子公司"
+  },
+  {
+    "id": "sysop",
+    "name": "管理员"
+  },
+  {
+    "id": "terminal",
+    "name": "终止"
+  },
+  {
+    "id": "tracer",
+    "name": "追踪者"
+  },
+  {
+    "id": "transaction",
+    "name": "交易"
+  },
+  {
+    "id": "trap",
+    "name": "陷阱"
+  },
+  {
+    "id": "triple",
+    "name": "三重"
+  },
+  {
+    "id": "trojan",
+    "name": "木马"
+  },
+  {
+    "id": "unorthodox",
+    "name": "异类"
+  },
+  {
+    "id": "vehicle",
+    "name": "载具"
+  },
+  {
+    "id": "virtual",
+    "name": "虚拟"
+  },
+  {
+    "id": "virus",
+    "name": "病毒"
+  },
+  {
+    "id": "weapon",
+    "name": "武器"
+  },
+  {
+    "id": "unsubstantiated",
+    "name": "未证实"
+  }
+]

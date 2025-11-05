@@ -1,0 +1,42 @@
+[
+  {
+    "id": "booster_pack",
+    "name": "增强包",
+    "description": "作为大版本的子集发布的补充卡包。"
+  },
+  {
+    "id": "campaign",
+    "name": "战役",
+    "description": "不可用于正式对战的战役卡包。"
+  },
+  {
+    "id": "core",
+    "name": "核心包",
+    "description": "核心卡包，或从核心精选卡牌中挑选一部分组成的卡包。"
+  },
+  {
+    "id": "data_pack",
+    "name": "数据包",
+    "description": "每个循环中主要发布的卡包。"
+  },
+  {
+    "id": "deluxe",
+    "name": "豪华包",
+    "description": "以大盒形式发布的非核心卡包。"
+  },
+  {
+    "id": "draft",
+    "name": "草案",
+    "description": "草案专用卡包。"
+  },
+  {
+    "id": "expansion",
+    "name": "扩展",
+    "description": "可用于正式对战的混合卡包。"
+  },
+  {
+    "id": "promo",
+    "name": "宣传",
+    "description": "不可用于正式对战的宣传卡包。"
+  }
+]
