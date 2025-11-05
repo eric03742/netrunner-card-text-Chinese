@@ -25,6 +25,8 @@ def main():
         with open(location_dst, mode="w", encoding="utf-8") as fout:
             json.dump(content, fout, ensure_ascii=False, indent=2, sort_keys=False)
 
+        print(f"convert '{location_dst}'!")
+
 
 if __name__ == "__main__":
     main()
