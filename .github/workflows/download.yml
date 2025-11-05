@@ -2,7 +2,7 @@ name: Refresh
 on: workflow_dispatch
 jobs:
   download:
-    name: 
+    name:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
@@ -12,5 +12,5 @@ jobs:
           add: '.'
           author_name: Eric03742
           author_email: eric03742@foxmail.com
-          message: 'commit data.'
+          message: 'download sheet data.'
           push: true
